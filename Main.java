@@ -10,6 +10,10 @@ public class Main {
         int area = length*breadth;
         System.out.println("The area of a rectangle is : "+area );
 
+        //Create a Java program where you define an integer variable with a value of 5.
+        // Use an if statement to check if the number is greater than 10.
+        //If it is, print "The number is greater than 10"; otherwise, print "The number is not greater than 10".
+
 
 
 
